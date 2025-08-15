@@ -9,13 +9,13 @@ To begin with, [install the base theme from the VS Marketplace](https://marketpl
 
 This feature is currently available across the following Chrome channels:
 
-  &emspCanary – version 140.0.7339.2 (released August 5, 2025)
+  &nbsp;Canary – version 140.0.7339.2 (released August 5, 2025)
 
-  Dev – version 140.0.7327.6 (released July 31, 2025)
+  &nbsp;Dev – version 140.0.7327.6 (released July 31, 2025)
 
-  Beta – version 140.0.7339.16 (released August 13, 2025)
+  &nbsp;Beta – version 140.0.7339.16 (released August 13, 2025)
 
-  Stable – version [insert version] (released [insert date])
+  &nbsp;Stable – version [insert version] (released [insert date])
 
 For usage within Chromium, check out the official [Chromium Documentation](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
