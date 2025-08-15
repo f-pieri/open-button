@@ -4,10 +4,20 @@
 ## What is this?
 The Open Button is an open-source contribution to Google’s Chromium project. It adds a button to chrome://history that lets users reopen multiple closed tabs with a single click.
 
-Much the same way, in the modern web-development world of shaders, React and WebGL, I feel like it's easy to forget that the basics are actually pretty damn good. To that end, this theme goes back to basics - No Shader magic. No cloud-streamed WebGL render-farms. Just plain CSS :)
-
 ## Usage
 To begin with, [install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode). This is the way Synthwave '84 is intended to be used day-to-day. If you want to enable the gratuitous 80s glow, it needs a little extra work to get it going. 
+
+This feature is currently available across the following Chrome channels:
+
+  Canary – version 140.0.7339.2 (released August 5, 2025)
+
+  Dev – version 140.0.7327.6 (released July 31, 2025)
+
+  Beta – version 140.0.7339.16 (released August 13, 2025)
+
+  Stable – version [insert version] (released [insert date])
+
+For usage within Chromium, check out the official [Chromium Documentation](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
 ## Screenshots
 
