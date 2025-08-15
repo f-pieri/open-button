@@ -1,15 +1,7 @@
 # Open Button
 ![Synthwave '84 logo over a cityscape](./banner.png)
 
-Do you remember that endless summer back in '84? Cruising down the ocean-highway with the top down, the wind in our hair and heads buzzing with neon dreams? 
-
-No, I don't remember it either, but with this experimental theme we can go there. 
-
-__As of v0.1.0, no external extensions are needed to activate the glow effect!__ 
-
 ![Neon glowing text](./theme.jpg)
-
-This colour scheme is influenced by the music and the cover artwork of modern Synthwave bands like FM-84, Timecop 1983 and The Midnight. By association, that means I've also taken heavy influence from the excellent [retro-tinged artwork of James White](https://signalnoise.com/) (check out his work, it's awesome).
 
 ## What is this?
 I was a kid in the 80s but for most of my teenage life I strongly disliked nearly everything about the 80s aesthetic of my childhood. It was like, _so lame_. With the hindsight of recent years though, I've realised that it was actually pretty sweet and I wanted to celebrate it a little. 
