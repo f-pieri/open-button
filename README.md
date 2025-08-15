@@ -26,22 +26,12 @@ For usage within Chromium, check out the official [Chromium Documentation](https
 ![screenshot four](./4.png)
 
 ## License
+This program is free software: you can redistribute it and/or modify it under the terms of the license.
 
-
-## Thanks
-
-
-## Compatibility
-This theme is still **very much a work in progress**. I primarily develop in HTML & CSS, JS, React and Elixir so, whilst those language sets should look pretty good, there will likely be issues for other languages. I'll work on adding more support as I go. If you find anything glaringly wrong, raise an issue and I'll try to fix it as soon as I can.
-
-## Contributing
-I'm really happy to consider any contributions to this theme. Before you make any changes, [please read the contribution guide](https://github.com/robb0wen/synthwave-vscode/blob/master/CONTRIBUTING.md).
+It’s also available to browse in [Chromium’s Code Search](https://source.chromium.org/). 
 
 ## Thanks
-Lastly, I couldn't have made this if it weren't for the fantastic work of [Sarah Drasner](https://twitter.com/sarah_edo). Her [tutorial on theming for CSS tricks](https://css-tricks.com/creating-a-vs-code-theme/) was a huge help in developing this 🙏
+I want to thank the project's code reviewers. This wouldn't be nearly as solid without the months you spent making sure every detail was right. You know who you are.
 
-Similarly, I'd like to thanks [Wes Bos](https://twitter.com/wesbos) for his [cool Cobalt2 theme](https://github.com/wesbos/cobalt2-vscode). His readme helped me figure out how to package this hot mess for public use 👍
+Also, a big thanks to everyone who helped me keep this project moving forward. You know who you are, too.
 
-If this theme is too much, then I recommend [Horizon](https://github.com/jolaleye/horizon-theme-vscode), or [City Lights](http://citylights.xyz/) for a similar, yet more understated, retro vibe. They're both beautiful.
-
-Banner cityscape image from [Unsplash](https://unsplash.com/photos/DxHR8K5Egjk)
