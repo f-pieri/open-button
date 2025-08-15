@@ -1,5 +1,5 @@
 # Open Button
-<img src="./chromium.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="900" />
+<img src="./chromium.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="500" />
 
 ## What is this?
 The Open Button is an open-source contribution to Google’s Chromium project. It adds a button to chrome://history that lets users reopen multiple closed tabs with a single click.
