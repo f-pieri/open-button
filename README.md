@@ -1,8 +1,6 @@
 # Open Button
 ![Synthwave '84 logo over a cityscape](./banner.png)
 
-![Neon glowing text](./theme.jpg)
-
 ## What is this?
 I was a kid in the 80s but for most of my teenage life I strongly disliked nearly everything about the 80s aesthetic of my childhood. It was like, _so lame_. With the hindsight of recent years though, I've realised that it was actually pretty sweet and I wanted to celebrate it a little. 
 
