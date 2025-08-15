@@ -20,10 +20,10 @@ This feature is currently available across the following Chrome channels:
 For usage within Chromium, check out the official [Chromium Documentation](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
 ## Screenshots
-<img src="./1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="600" />
-<img src="./3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="600" />
-<img src="./2.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="600" />
-<img src="./4.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="600" />
+<img src="./1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="6000" />
+<img src="./3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="6000" />
+<img src="./2.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="6000" />
+<img src="./4.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="6000" />
 
 ## License
 This program is free software: you can redistribute it and/or modify it under the terms of the license.
