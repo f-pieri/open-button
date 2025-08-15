@@ -20,7 +20,10 @@ This feature is currently available across the following Chrome channels:
 For usage within Chromium, check out the official [Chromium Documentation](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
 ## Screenshots
-
+![screenshot one](./1.png)
+![screenshot two](./2chromium.png)
+![screenshot three](./3.png)
+![screenshot four](./4.png)
 
 ## License
 
