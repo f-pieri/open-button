@@ -2,11 +2,11 @@
 ![Synthwave '84 logo over a cityscape](./banner.png)
 
 ## What is this?
-I was a kid in the 80s but for most of my teenage life I strongly disliked nearly everything about the 80s aesthetic of my childhood. It was like, _so lame_. With the hindsight of recent years though, I've realised that it was actually pretty sweet and I wanted to celebrate it a little. 
+The Open Button is an open-source contribution to Google’s Chromium project. It adds a button to chrome://history that lets users reopen multiple closed tabs with a single click.
 
 Much the same way, in the modern web-development world of shaders, React and WebGL, I feel like it's easy to forget that the basics are actually pretty damn good. To that end, this theme goes back to basics - No Shader magic. No cloud-streamed WebGL render-farms. Just plain CSS :)
 
-## usage
+## Usage
 To begin with, [install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode). This is the way Synthwave '84 is intended to be used day-to-day. If you want to enable the gratuitous 80s glow, it needs a little extra work to get it going. 
 
 ## Screenshots
