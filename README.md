@@ -9,7 +9,7 @@ Much the same way, in the modern web-development world of shaders, React and Web
 ## Installation
 To begin with, [install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode). This is the way Synthwave '84 is intended to be used day-to-day. If you want to enable the gratuitous 80s glow, it needs a little extra work to get it going. 
 
-### Screenshots
+## Screenshots
 
 
 #### To customise the glow brightness
