@@ -1,11 +1,11 @@
 # Open Button
-![Synthwave '84 logo over a cityscape](./banner.png)
+![Chromium logo](./chromium.png)
 
 ## What is this?
 The Open Button is an open-source contribution to Google’s Chromium project. It adds a button to chrome://history that lets users reopen multiple closed tabs with a single click.
 
 ## Usage
-To begin with, [install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode). This is the way Synthwave '84 is intended to be used day-to-day. If you want to enable the gratuitous 80s glow, it needs a little extra work to get it going. 
+![chrome versions](./chromeversions.png)
 
 This feature is currently available across the following Chrome channels:
 
