@@ -1,1 +1,3 @@
-
+      <message name="IDS_HISTORY_OPEN" desc="Text for open button contained in the history page toolbar. Opens selected history items as new tabs.">
+        Open
+      </message>
