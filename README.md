@@ -21,7 +21,7 @@ For usage within Chromium, check out the official [Chromium Documentation](https
 
 ## Screenshots
 ![screenshot one](./1.png)
-![screenshot two](./2chromium.png)
+![screenshot two](./2.png)
 ![screenshot three](./3.png)
 ![screenshot four](./4.png)
 
