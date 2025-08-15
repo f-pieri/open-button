@@ -5,7 +5,7 @@
 The Open Button is an open-source contribution to Google’s Chromium project. It adds a button to chrome://history that lets users reopen multiple closed tabs with a single click.
 
 ## Usage
-![chrome versions](./chromeversions.png)
+<img src="./chromeversions.png" alt="chrome versions" width="600">
 
 This feature is currently available across the following Chrome channels:
 
