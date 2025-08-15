@@ -1,4 +1,4 @@
-#Open Button
+# Open Button
 ![Synthwave '84 logo over a cityscape](./banner.png)
 
 Do you remember that endless summer back in '84? Cruising down the ocean-highway with the top down, the wind in our hair and heads buzzing with neon dreams? 
