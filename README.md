@@ -9,13 +9,13 @@ The Open Button is an open-source contribution to Google’s Chromium project. I
 
 This feature is currently available across the following Chrome channels:
 
-  &emsp;Canary – version 140.0.7339.2 (released August 5, 2025)
+  &emsp;[Canary](https://www.google.com/chrome/canary/) – version 140.0.7339.2 (released August 5, 2025)
 
-  &emsp;Dev – version 140.0.7327.6 (released July 31, 2025)
+  &emsp;[Dev](https://www.google.com/chrome/dev/) – version 140.0.7327.6 (released July 31, 2025)
 
-  &emsp;Beta – version 140.0.7339.16 (released August 13, 2025)
+  &emsp;[Beta](https://www.google.com/chrome/beta/) – version 140.0.7339.16 (released August 13, 2025)
 
-  &emsp;Stable – version [insert version] (released [insert date])
+  &emsp;[Stable](https://www.google.com/chrome/) – version [insert version] (released [insert date])
 
 For usage within Chromium, check out the official [Chromium Docs](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
