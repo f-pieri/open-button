@@ -19,12 +19,6 @@ This feature is currently available across the following Chrome channels:
 
 For usage within Chromium, check out the official [Chromium Docs](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
-## Screenshots
-<img src="./screenshots/1.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
-<img src="./screenshots/2.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
-<img src="./screenshots/3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
-<img src="./screenshots/4.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="4000" height="4000" />
-
 ## License
 This program is free software: you can redistribute it and/or modify it under the terms of the license.
 
