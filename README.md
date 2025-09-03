@@ -15,7 +15,7 @@ This feature is currently available across the following Chrome channels:
 
   &emsp;[Beta](https://www.google.com/chrome/beta/) – version 140.0.7339.16 (released August 13, 2025)
 
-  &emsp;[Stable](https://www.google.com/chrome/) – version [insert version] (released [insert date])
+  &emsp;[Stable](https://www.google.com/chrome/) – version 140.0.7339.41 (released August 27, 2025)
 
 For usage within Chromium, check out the official [Chromium Docs](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
