@@ -19,9 +19,6 @@ This feature is currently available across the following Chrome channels:
 
 For usage within Chromium, check out the official [Chromium Docs](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
-## License
-This program is free software: you can redistribute it and/or modify it under the terms of the license.
-
 It’s also available to browse in [Chromium’s Code Search](https://source.chromium.org/). 
 
 ## Thanks
