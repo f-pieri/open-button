@@ -21,7 +21,7 @@ For usage within Chromium, check out the official [Chromium Docs](https://chromi
 
 It’s also available to browse in [Chromium’s Code Search](https://source.chromium.org/). 
 
-## Thanks
+<!--## Thanks
 I want to thank the project's code reviewers. This wouldn't be nearly as solid without the months you spent making sure every detail was right. You know who you are.
 
 Also, a big thanks to everyone who helped me keep this project moving forward. You know who you are, too.
